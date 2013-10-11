@@ -1,0 +1,2 @@
+japanese-xbmc-addons
+====================
